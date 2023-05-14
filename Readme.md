@@ -1,67 +1,43 @@
-Shinra Meter
+ShinraMeter
 ==============
+ShinraMeter is a DPS Meter for Menma's TERA based off https://github.com/gothos-folly/TeraDamageMeter. 
 
-[<img src="https://img.shields.io/badge/rating-4%2B%20stars-brightgreen.svg">](https://recordnotfound.com/ShinraMeter-neowutran-9937)
+Download: https://emilia.menmastera.com/shinrameter/ShinraMeterV2.93-MT.zip
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/yukikoo)
+ShinraMeter is originally developed by Gl0 and Yukikoo/Neowutran and this version is currently maintained by the Menma's TERA team.
 
-ShinraMeter is a DPS Meter for TERA based off https://github.com/gothos-folly/TeraDamageMeter . 
+## Prerequisites
 
-Wiki: https://github.com/neowutran/TeraDamageMeter/wiki
+* [.NET Desktop Runtime 6.0 x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* Up to date Windows 10 recommended.
 
-Download: https://neowutran.ovh/updates/
+## How to Install
 
-TERADATA: https://github.com/neowutran/TeraDpsMeterData
+1. Download **the latest version of ShinraMeter** from the link above, and extract it.
+2. Download and Install [npcap](https://nmap.org/npcap/) ([source of the project](https://github.com/nmap/npcap)) or [win10pcap](http://www.win10pcap.org) ([source of the project](https://github.com/SoftEtherVPN/Win10Pcap))
+3. Start ShinraMeter.exe, login to Menma's TERA. ShinraMeter should now detect the server's name, change the tray icon to guild icon of your logged in character, and count damage.
 
-https://neowutran.ovh/teraDB/
+**If it doesn't work in this setup (no server name in tray icon tooltip/no guild icon/no damage counted)**:
 
-ShinraMeter is dev by Gl0 and Yukikoo/Neowutran
- 
+4. Enable Raw Sockets Mode:
 
-Logo
----------
- 
-Thanks to Se7en-Hellas for the new Shinra logo =) 
+    4.1. Uninstall npcap/win10pcap, as it might not support your network connection type.
 
-Se7en-Hellas website: http://se7enhellas.wixsite.com/mylogogr 
+    4.2. Run the add_firewall_exception.bat file as administrator from the ShinraMeter directory.
 
-Shinra Manager by Dark (external contributor) 
----------------
-https://github.com/SaltyMonkey/ShinraManager
+    4.3. Click the ShinraMeter icon on your tray to open settings, go to Detection Settings and disable the "Use npcap" option.
 
-Cool UI project by Foglio
--------------------
-https://github.com/Foglio1024/Tera-custom-cooldowns
+    4.4. Restart ShinraMeter.
 
-Somehow related project
---------------------
-https://github.com/neowutran/S1UI_GPU
+**ShinraMeter should now be working - if not, you might have done something wrong, or you are using an outdated/modified version of the meter.**
 
-https://github.com/neowutran/S1UI_chat2
+If the meter still can't find your game connection, disable/uninstall any "network booster" applications and try again from step 2. Such applications may include:
+* SmartByte Network services - preinstalled on dell notebooks
+* killer network service - coming with Killer gaming NICs
 
 
-Original Readme
-================
+## IMPORTANT NOTE
+Do not put the config files in read-only mode, as this will prevent ShinraMeter from loading properly and make it crash on exit. It needs access to modify these files in order to save your settings.
 
-
-TeraSniffer and Damage Meter by Gothos.
-
-* Packet encryption code and the list of server IPs are from
-
-  https://github.com/GoneUp/Tera_PacketViewer
-
-  Thanks to GoneUp and whoever else worked on this.
-
-* Skillnames extracted from:
-
-  https://forum.ragezone.com/f797/release-tera-datacenter-unpacked-eur-1064404/
-
-  Thanks to mangojoe for the dumps
-
-  Used a modified version of DataTools to extract the list from this dump.
-
-* TeraEmulator was very helpful for understanding the packet structures.
-
-   https://github.com/r4ymonf/TeraEmulator
-
-OpCodes dumped by GoneUp, Gothos, dezmen
+## Support
+Join our [discord server](https://menmastera.com/shop) for additional support.
