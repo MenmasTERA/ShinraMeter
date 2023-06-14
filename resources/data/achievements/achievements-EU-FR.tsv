@@ -4993,6 +4993,8 @@
 999204	Nord d'Arun
 999205	Divers
 999206	Explorer Exodor
+999207	Dimension
+999208	Île de l'Aube
 999300	Patrouilles du devoir
 999301	Pour la Fédération
 999302	Ile de l'Aube
@@ -5001,7 +5003,7 @@
 999305	Nord de Shara
 999306	Nord d'Arun
 999307	Quête d'Exodor
-999400	Donjons et Champs de bataille
+999400	Donjons
 999401	Donjons du Sud d'Arun
 999402	Donjons du Sud de Shara
 999403	Donjons du Nord de Shara
@@ -5011,6 +5013,10 @@
 999407	Berceau des Kumas
 999408	Donjon d'Exodor
 999409	Donjon d'entraînement
+999450	Champs de bataille
+999451	Territoire côtier
+999452	Cercle céleste des Champions
+999453	Gorge de Venteguerre
 999500	Activités secondaires
 999501	Enchantement
 999502	Collecte
@@ -8690,6 +8696,54 @@
 2184802	Appelez-moi maître
 2184803	Au suivant !
 2184804	Nouvelle lecture
+2185001	Attendez une seconde...
+2185002	Être frappé par le stun du Dieu de Guerre Éternel Cauchemard 20 fois.
+2185003	Être frappé par le stun du Dieu de Guerre Éternel Cauchemard 20 fois.
+2185004	Fédération Valkyon
+2185800	Subir le « debuff Stun » dans l'Arène Interdite [Dieu de Guerre Éternel Cauchemard]
+2186001	C'est fini ?
+2186002	Vaincre le « Dieu de Guerre Éternel Cauchemard » en 5 minutes dans l'Arène Interdite [Dieu de Guerre Éternel Cauchemard]
+2186003	Vaincre le « Dieu de Guerre Éternel Cauchemard » en 5 minutes dans l'Arène Interdite [Dieu de Guerre Éternel Cauchemard]
+2186004	Fédération Valkyon
+2186800	Vaincre le « Dieu de Guerre Éternel Cauchemard » en 5 minutes dans l'Arène Interdite [Dieu de Guerre Éternel Cauchemard]
+2187001	Ailes de Feu
+2187002	Compléter les réalisations ci-dessous.
+2187003	Compléter les réalisations ci-dessous.
+2187004	Fédération Valkyon
+2187800	Inoubliable
+2187801	Adversaire Digne
+2187802	Vous ne pouvez pas m'achever !
+2187803	Tir... 
+3124001	Elle aurait dû rester en 2012
+3124002	Battre cauchemar Shandra Manaya dans le Plexus (difficile) sans mourir une fois.
+3124003	Battre cauchemar Shandra Manaya dans le Plexus (difficile) sans mourir une fois.
+3124004	Fédération Valkyon
+3124800	Battre cauchemar Shandra Manaya dans le Plexus (difficile) sans mourir
+3125001	Je peux durer plus longtemps
+3125002	Battre cauchemar Shandra Manaya dans le Plexus (difficile) en 5 minutes.
+3125003	Battre cauchemar Shandra Manaya dans le Plexus (difficile) en 5 minutes.
+3125004	Fédération Valkyon
+3125800	Battre cauchemar Shandra Manaya dans le Plexus (difficile) en 5 minutes
+3126001	Dozen d'un boulanger
+3126002	Battre cauchemar Shandra Manaya dans le Plexus (difficile) 50 fois.
+3126003	Battre cauchemar Shandra Manaya dans le Plexus (difficile) 50 fois.
+3126004	Fédération Valkyon
+3127001	J'aurai besoin d'un psychologue après ça
+3127002	Recevez "Pensée cupide", "Pensée haineuse" et "Pensée désespérée" 10 fois dans le Plexus (difficile).
+3127003	Recevez "Pensée cupide", "Pensée haineuse" et "Pensée désespérée" 10 fois dans le Plexus (difficile).
+3127004	Fédération Valkyon
+3127005	Pensée cupide
+3127006	Pensée haineuse
+3127007	Pensée désespérée
+3128001	Adieu Manaya!
+3128002	Complétez les réalisations ci-dessous.
+3128003	Complétez les réalisations ci-dessous.
+3128004	Fédération Valkyon
+3128800	Conseiller de la Reine
+3128801	Elle aurait dû rester en 2012
+3128802	Je peux durer plus longtemps
+3128803	Dozen d'un boulanger
+3128804	J'aurai besoin d'un psychologue après ça
 5991001	Premiers pas dans un vaste monde
 5991002	Accomplir la quête : "Aider en récoltant"
 5991003	Accomplir la quête : "Aider en récoltant"
@@ -9644,6 +9698,26 @@
 28808803	Quête accomplie : course contre la légende
 28808804	Quête accomplie : festin de pêcheur
 28808805	Quête accomplie : pieuvres et fées
+28809001	Les femmes me veulent
+28809002	A complété les tâches suivantes :
+28809003	A complété les tâches suivantes :
+28809004	Fédération Valkyon
+28809005	A attrapé le Bleu Géant 20 fois à la Pêcherie de Muricaï.
+28809006	A attrapé le Requin Doré 20 fois à la Pêcherie du Marais Vexatus.
+28809007	A attrapé le Serpent-Fée 20 fois à la Pêcherie du Lac des Larmes.
+28809008	A attrapé le Voiliers Doré 20 fois à la Pêcherie du Port du Coupe-Gorge.
+28809009	A attrapé le Saumon Reine 20 fois à la Pêcherie du Lac Celsian.
+28809010	A attrapé le Pieuvre Doré 20 fois à la Pêcherie du Lac de Sérén.
+28809011	A attrapé le Bleu Géant 20 fois à la Pêcherie d'Iridian.
+28809012	A attrapé le Raie Dorée 20 fois à la Ferme Piscicole Azart.
+28809013	A attrapé le Aileron Obscur 20 fois dans le Territoire du Prédateur.
+28809014	A attrapé le Carpe Dorée 20 fois dans les Terres de Exodor.
+28809015	A attrapé l'Ammonite 20 fois à la Pêcherie de l'Etang des Fées.
+28809016	A attrapé le Cnidaire Arc-en-Ciel 20 fois à la Pêcherie du Pont du Jardin.
+28809017	A attrapé le Piranha Azart 20 fois à la Pêcherie de la Fontaine de Verrak.
+28809018	A attrapé l'Anémone des Nuages 20 fois à l'Île du Lac des Nuages.
+28809019	A attrapé le Jarflower Veiltail 20 fois dans le Jardin Dazzling.
+28809501	Les poissons me craignent
 28810001	Vrai mordu de pêche
 28810002	Exploits ci-dessous accomplis :
 28810003	Exploits ci-dessous accomplis :
@@ -9926,6 +10000,87 @@
 53000804	TERA Team
 53000851	Diver
 53000880	Complete quest 'Diver' and use special item from  reward to get achievement.
+54003001	Où est l'Arbre Ravissant?
+54003002	Terminé "Faire des Amis ou des Ennemis?"
+54003003	Terminé "Faire des Amis ou des Ennemis?"
+54003004	Fédération Valkyon
+54003005	Risqué
+54003006	Faire des Amis ou des Ennemis?
+55500001	Vengez les Nagas
+55500002	Vaincre le commandant cauchemard Kalligar 77 fois dans l'arène Draakon (Difficile).
+55500003	Vaincre le commandant cauchemard Kalligar 77 fois dans l'arène Draakon (Difficile).
+55500004	Fédération Valkyon
+55500005	Vengeur
+55500007	Brisé
+55500011	Conseiller de la Reine
+55500012	Vaincre Shandra Manaya cauchemard dans le Noyau de Manaya (Difficile) 77 fois.
+55500013	Vaincre Shandra Manaya cauchemard dans le Noyau de Manaya (Difficile) 77 fois.
+55500014	Fédération Valkyon
+55500015	Noble
+55500020	N'êtes-vous pas encore fatigué?
+55500021	Vaincre Combattant immortel. dans l'arène interdite 77 fois.
+55500022	Vaincre Combattant immortel. dans l'arène interdite 77 fois.
+55500023	Fédération Valkyon
+55500024	Volonté Eternelle
+55500031	Bûcheron Verno
+55500032	Vaincre Verno cauchemard dans le Laboratoire de Verno (Difficile) 77 fois.
+55500033	Vaincre Verno cauchemard dans le Laboratoire de Verno (Difficile) 77 fois.
+55500034	Fédération Valkyon
+55500035	Touchez l'herbe
+55500041	Tout le monde aime les clowns!
+55500042	Vaincre Manglemore dans le Plateau trompeur 77 fois.
+55500043	Vaincre Manglemore dans le Plateau trompeur 77 fois.
+55500044	Fédération Valkyon
+55500045	Clown
+55500051	Inoubliable
+55500052	Vaincre le Dieu de guerre immortalis cauchemard 77 fois dans l'arène interdite [Immortalis].
+55500053	Vaincre le Dieu de guerre immortalis cauchemard 77 fois dans l'arène interdite [Immortalis].
+55500054	Fédération Valkyon
+55500055	Infâme
+55556301	Un, deux, trois, répétez..
+55556302	Atteint 'Vénéré' avec la réputation Noyau de Manaya (Difficile).
+55556303	Atteint 'Vénéré' avec la réputation Noyau de Manaya (Difficile).
+55556304	Fédération Valkyon
+55556305	'Vénéré' avec le Noyau de Manaya (Difficile)
+55556401	Le feu est mon ami
+55556402	Atteint 'Vénéré' avec la réputation Croiseur céleste l'Opiniâtre (Difficile).
+55556403	Atteint 'Vénéré' avec la réputation Croiseur céleste l'Opiniâtre (Difficile).
+55556404	Fédération Valkyon
+55556405	'Vénéré' avec le Croiseur céleste l'Opiniâtre (Difficile)
+55556501	Perdu dans l'abîme
+55556502	Atteint 'Vénéré' avec la réputation Abîme d'Antaros (Difficile).
+55556503	Atteint 'Vénéré' avec la réputation Abîme d'Antaros (Difficile).
+55556504	Fédération Valkyon
+55556505	'Vénéré' avec l'Abîme d'Antaros (Difficile)
+55556601	Une autre course ?
+55556602	A complété les réalisations ci-dessous :
+55556603	A complété les réalisations ci-dessous :
+55556604	Fédération Valkyon
+55556605	Un, deux, trois, répétez..
+55556606	Le feu est mon ami
+55556607	Perdu dans l'abîme
+55556608	Fléau des Champs de Bataille
+55556609	Participez au premier Évènement Elin et utilisez le Titre Fléau des Champs de Bataille.
+55556610	Utilisez le Titre Fléau des Champs de Bataille.
+55556611	Maudit de la Bataille
+55559001	Sommes-nous seuls ici?
+55559002	Découvrez un livre abandonné à Hautegarde.
+55559003	Découvrez un livre abandonné à Hautegarde.
+55559004	Fédération Valkyon
+55559005	Trouvez et lisez le livre abandonné à la Sanctuaire de l'Illumination.
+55560001	Un monde au-delà du nôtre
+55560002	Découvrez un livre abandonné à Hydrangea.
+55560003	Découvrez un livre abandonné à Hydrangea.
+55560004	Fédération Valkyon
+55560005	Trouvez et lisez le livre abandonné à Hydrangea.
+55560101	Visitez Hydrangea
+55560102	Visitez Hydrangea et parlez à Dakur.
+55560103	Fédération Valkyon
+55560104	Visitez Hydrangea et parlez à Dakur.
+55560201	Visitez le Jardin de Seren
+55560202	Visitez le Jardin de Seren.
+55560203	Fédération Valkyon
+55560204	Visitez le Jardin de Seren et parlez à Titania.
 98101001	Cellule partagée
 98101002	Vaincre 1 fois Risalke la Possédée dans la Prison de Lakan.
 98101003	Empêcher Risalke de réaliser son rite d'invocation dans la Prison de Lakan et vaincre ses sbires.
@@ -9949,12 +10104,12 @@
 99101002	1re place de la saison
 99101003	1re place de la saison
 99101004	Fédération Valkyon
-99101005	Gardien puissant de l'esprit combatif
+99101005	Le Salut de Skyring
 99102001	Récompenses de classement du champ de bataille (Cercle céleste des champions) pour les 2e et 3e places : gardien (BTS, si visible)
 99102002	2e et 3e places de la saison
 99102003	2e et 3e places de la saison
 99102004	Fédération Valkyon
-99102005	Gardien de l'esprit combatif
+99102005	Champion Courageux
 99103001	Récompenses de classement du champ de bataille (Gorge de Venteguerre) pour la 1re place : gardien puissant (BTS, si visible)
 99103002	1re place de la saison
 99103003	1re place de la saison
@@ -9969,22 +10124,22 @@
 99105002	1re place de la saison
 99105003	1re place de la saison
 99105004	Fédération Valkyon
-99105005	Gardien puissant de l'artillerie
+99105005	Cavalerie de Corsaire
 99106001	Récompenses de classement du champ de bataille (Fort des corsaires) pour les 2e et 3e places : gardien (BTS, si visible)
 99106002	2e et 3e places de la saison
 99106003	2e et 3e places de la saison
 99106004	Fédération Valkyon
-99106005	Gardien de l'artillerie
+99106005	Sauveur de Forteresse
 99107001	Récompenses de classement JcE (Territoire côtier) pour la 1re place : gardien puissant (BTS, si visible)
 99107002	1re place de la saison
 99107003	1re place de la saison
 99107004	Fédération Valkyon
-99107005	Gardien puissant du désert
+99107005	Héros de la Cale
 99108001	Récompenses de classement JcE (Territoire côtier) pour les 2e et 3e places : gardien (BTS, si visible)
 99108002	2e et 3e places de la saison
 99108003	2e et 3e places de la saison
 99108004	Fédération Valkyon
-99108005	Gardien du désert
+99108005	Salut du Rivage
 99111001	Récompenses de classement JcE (Abîme d'Antaros (difficile)) pour la 1re place : gardien puissant (BTS, si visible)
 99111002	1re place de la saison
 99111003	1re place de la saison
@@ -11226,13 +11381,435 @@
 540001003	1er de la saison actuelle
 540001004	Fédération Valkion
 540001005	Grand Champion du Colisée
+540001101	Gagnant du concours d'art de Menma
+540001102	Remis au premier de Menma's Art Contest 2022!
+540001103	Remis au premier de Menma's Art Contest 2022!
+540001104	Placé premier au concours d'art de Menma
+540001105	Menma's TERA Artist
+540001201	Lauréats du concours d'art Menma
+540001202	Récompensé pour la deuxième place du concours d'art Menma 2022!
+540001203	Récompensé pour la deuxième place du concours d'art Menma 2022!
+540001204	Deuxième place au concours d'art Menma
+540001205	Rat's Queen
+540001251	Lauréats du concours d'art Menma
+540001252	Récompensé pour la troisième place du concours d'art Menma 2022!
+540001253	Récompensé pour la troisième place du concours d'art Menma 2022!
+540001254	Troisième place au concours d'art Menma
+540001255	Edotensei 1vs20
 540002001	Classé pour le Champ de Bataille - Le Colisée
 540002002	2ème ou 3ème place pour la saison actuelle
 540002003	2ème ou 3ème place pour la saison actuelle
 540002004	Fédération Valkion
 540002005	Le Champion du Colisée
-540003001	Community Manager de Menma TERA
-540003002	Octroyé aux community managers actuels de Menma TERA!
-540003003	Octroyé aux community managers actuels de Menma TERA!
-540003013	Soit un Community Manager
-540003501	Community Manager
+540004001	Party Animal
+540004002	Complétez les quêtes suivantes :
+540004003	Complétez les quêtes suivantes :
+540004011	[Event—Daily] Mini-jeu Cannons à eau x10
+540004012	[Event—Daily] Mini-jeu Melon Bash x10
+540004013	[Event—Daily] Châteaux de sable dans le sable x10
+540004501	Brise estivale
+540005001	Baigneur
+540005002	Complétez les quêtes suivantes :
+540005003	Complétez les quêtes suivantes :
+540005011	[Event—Daily] Glaçage sur le gâteau x10
+540005012	[Event—Daily] Feux d'artifice en vol x10
+540005501	Baigné de soleil
+540006001	Équipe TERA de Menma
+540006002	Accordé aux membres actuels de l'équipe TERA de Menma !
+540006003	Accordé aux membres actuels de l'équipe TERA de Menma !
+540006011	Rejoignez l'équipe TERA de Menma
+540006501	Équipe Menma
+540007001	Récompenses du classement PvE Draakon Arena (Hard) 1er place
+540007002	1er place de la saison en cours
+540007003	1er place de la saison en cours
+540007004	Fédération Valkyon
+540007005	Perfectionniste
+540007006	Testeur TERA de Menma
+540007007	Accordé aux testeurs TERA actifs de Menma !
+540007008	Accordé aux testeurs TERA actifs de Menma !
+540007009	Fédération Valkyon
+540007010	Devenez un testeur pour Menma's TERA
+540007011	Contributeur remarquable
+540008001	Récompenses du classement PvE Draakon Arena (Hard) 2e et 3e place
+540008002	2e ou 3e place de la saison en cours
+540008003	2e ou 3e place de la saison en cours
+540008004	Fédération Valkyon
+540008005	Idéaliste
+540014001	Voir de la Glace
+540014002	A capturé 100 poissons de glace lors de l'événement de pêche de glace en janvier 2023.
+540014003	A capturé 100 poissons de glace lors de l'événement de pêche de glace en janvier 2023.
+540014004	Fédération Valkyon
+540014005	Pêcheur arctique
+540015001	Récompenses du classement PvE Rampaging RK-9 Kennel 1er place
+540015002	1er place de la saison en cours
+540015003	1er place de la saison en cours
+540015004	Fédération Valkyon
+540015005	Exception non capturée
+540016001	Récompenses du classement PvE Rampaging RK-9 Kennel 2e et 3e place
+540016002	2e ou 3e place de la saison en cours
+540016003	2e ou 3e place de la saison en cours
+540016004	Fédération Valkyon
+540016005	Entrée inattendue
+540017001	Récompenses du classement PvE Sky Cruiser Endeavor (Difficile) 1er Place
+540017002	1er place de la saison actuelle
+540017003	1er place de la saison actuelle
+540017004	Fédération Valkyon
+540017005	A fait brûler le Sky Cruiser
+540018001	Récompenses du classement PvE Sky Cruiser Endeavor (Difficile) 2ème et 3ème Place
+540018002	2ème ou 3ème place de la saison actuelle
+540018003	2ème ou 3ème place de la saison actuelle
+540018004	Fédération Valkyon
+540018005	A témoigné des flammes
+540019001	Récompenses du classement PvE The Plexus (Difficile) 1er Place
+540019002	Première place de la saison actuelle
+540019003	Première place de la saison actuelle
+540019004	Fédération Valkyon
+540019005	Messager des ténèbres
+540020001	Récompenses du classement PvE The Plexus (Difficile) 2ème, 3ème Place
+540020002	Deuxième ou troisième place de la saison actuelle
+540020003	Deuxième ou troisième place de la saison actuelle
+540020004	Fédération Valkyon
+540020005	Précurseur des ombres
+540030001	Tirant le voile
+540030002	Vaincre Combattant immortel. dans l'Arène du courroux en moins de 4 minutes.
+540030003	Vaincre Combattant immortel. dans l'Arène du courroux en moins de 4 minutes.
+540030004	Fédération Valkyon
+540030005	Cauchemar sans fin
+540030006	Recevez Ominous Aura Infusée 30 fois dans l'Arène du courroux.
+540030007	Recevez Ominous Aura Infusée 30 fois dans l'Arène du courroux.
+540030008	Fédération Valkyon
+540030009	Ôtez-moi ça!
+540030010	Recevez Terreur Envahissante 30 fois dans l'Arène du courroux.
+540030011	Recevez Terreur Envahissante 30 fois dans l'Arène du courroux.
+540030012	Fédération Valkyon
+540030013	Vous auriez dû m'écouter depuis le début.
+540030014	Achievez les succès ci-dessous.
+540030015	Achievez les succès ci-dessous.
+540030016	Fédération Valkyon
+540030017	L'Arène du courroux est ma maison
+540030018	Achievez les succès ci-dessous.
+540030019	Achievez les succès ci-dessous.
+540030020	Fédération Valkyon
+540031001	Esprit Chasseur
+540031002	Participez au premier Battle Pass et utilisez le jeton de titre Chasseur de Primes.
+540031003	Utilisez le jeton de titre Chasseur de Primes.
+540031004	Fédération Valkyon
+540031005	Chasseur de Primes
+540032001	Apprenti Tailleur
+540032002	Avez augmenté votre compétence de Couture à 100.
+540032003	Avez augmenté votre compétence de Couture à 100.
+540032004	Fédération Valkyon
+540033001	Artisan Tailleur
+540033002	Avez augmenté votre compétence de Couture à 650.
+540033003	Avez augmenté votre compétence de Couture à 650.
+540033004	Fédération Valkyon
+540034001	Maître Tailleur
+540034002	Montez le niveau de Couture à Maître.
+540034003	Montez le niveau de Couture à Maître.
+540034004	Fédération Valkyon
+540034005	Maître Tailleur
+540035001	Noël est tout proche
+540035002	Parlez à Jingles à Hautegarde pendant l'événement d'hiver 2022.
+540035003	Parlez à Jingles à Hautegarde pendant l'événement d'hiver 2022.
+540035004	Fédération Valkyon
+540035005	Il fait froid!
+540036001	Laissez Tomber La Neige!
+540036002	Utilisez [Événement] Carte de Noël [Mont Tyrannas] 10 fois.
+540036003	Utilisez [Événement] Carte de Noël [Mont Tyrannas] 10 fois.
+540036004	Fédération Valkyon
+540036005	Joyeux
+540037001	Gelé, Servi!
+540037002	Utilisez [Événement] Carte de Noël [Glacier Hurlant] 10 fois.
+540037003	Utilisez [Événement] Carte de Noël [Glacier Hurlant] 10 fois.
+540037004	Fédération Valkyon
+540037005	Blanc
+540038001	Griser Jusqu'à Ce Que Vous Le Faites!
+540038002	Utilisez [Événement] Carte de Noël [Champ de Neige Calciné] 10 fois.
+540038003	Utilisez [Événement] Carte de Noël [Champ de Neige Calciné] 10 fois.
+540038004	Fédération Valkyon
+540038005	Froid
+540039001	Blanc Comme La Neige
+540039002	Participez au Champ de Bataille d'Hivera et utilisez le jeton de titre Ange.
+540039003	Utilisez le jeton de titre Ange.
+540039004	Fédération Valkyon
+540039005	Ange
+540040001	Retournez d'où vous venez !
+540040002	Éliminez les Karaschas dévoués de l'Île de l'Aube.
+540040003	Éliminez les Karaschas dévoués de l'Île de l'Aube.
+540040004	Fédération Valkyon
+540040005	Maniac
+540040006	Nombre de Karaschas dévoués tués :
+540041001	Vieilles têtes, drôles d'endroits
+540041002	A chassé 100 Basilisks brutaux, 100 Orisks brutaux et 100 Ovoliths brutaux.
+540041003	A chassé 100 Basilisks brutaux, 100 Orisks brutaux et 100 Ovoliths brutaux.
+540041004	Fédération Valkyon
+540041005	Brutal
+540041006	Nombre de Basilisks brutaux tués :
+540041007	Nombre d'Orisks brutaux tués :
+540041008	Nombre d'Ovoliths brutaux tués :
+540042001	Dossiers des patients
+540042002	A chassé 100 Téraliths liés au sang brutaux, 100 Fimbrilisks brutaux et 100 Crocs embrasés brutaux.
+540042003	A chassé 100 Téraliths liés au sang brutaux, 100 Fimbrilisks brutaux et 100 Crocs embrasés brutaux.
+540042004	Fédération Valkyon
+540042005	Saignant
+540042006	Nombre de Téraliths liés au sang brutaux tués :
+540042007	Nombre de Fimbrilisks brutaux tués :
+540042008	Nombre de Crocs embrasés brutaux tués :
+540043001	Plus fort, plus vite, plus fort, plus loin
+540043002	A chassé 100 Maîtres de guerre nagas brutaux, 100 Géants de fer brutaux et 100 Hydraths d'onyx brutaux.
+540043003	A chassé 100 Maîtres de guerre nagas brutaux, 100 Géants de fer brutaux et 100 Hydraths d'onyx brutaux.
+540043004	Fédération Valkyon
+540043005	Corrompu
+540043006	Nombre de Maîtres de guerre nagas brutaux tués :
+540043007	Nombre de Géants de fer brutaux tués :
+540043008	Nombre d'Hydraths d'onyx brutaux tués :
+540044001	Me voici !
+540044002	Accomplissez les réalisations ci-dessous.
+540044003	Accomplissez les réalisations ci-dessous.
+540044004	Fédération Valkyon
+540044005	Mon corps est prêt
+540044006	Retournez d'où vous venez !
+540044007	Plus fort, plus vite, plus fort, plus loin
+540045001	J'ai fait tant d'amis !
+540045002	A rejoint 1000 parties.
+540045003	A rejoint 1000 parties.
+540045004	Fédération Valkyon
+540045005	Populaire
+540045006	Parties rejointes :
+540046001	Papillon social
+540046002	A créé 1000 groupes.
+540046003	A créé 1000 groupes.
+540046004	Fédération Valkyon
+540046005	Extraverti
+540047001	Je l'ai fait ! Tu l'as vu ?
+540047002	A terminé 50 donjons avec des groupes créés via le service d'accès aux Instances.
+540047003	A terminé 50 donjons avec des groupes créés via le service d'accès aux Instances.
+540047004	Fédération Valkyon
+540047005	Instances terminées :
+540048001	Bonjour, avez-vous besoin d'aide ?
+540048002	A terminé 100 donjons avec des groupes créés via le service d'accès aux Instances.
+540048003	A terminé 100 donjons avec des groupes créés via le service d'accès aux Instances.
+540048004	Fédération Valkyon
+540048005	Instances terminées :
+540049001	Des dragons ici, des dragons là-bas.. des dragons partout !
+540049002	Trouvez des Wermyrs corrompus sur l'Île de l'Aube.
+540049003	Trouvez des Wermyrs corrompus sur l'Île de l'Aube.
+540049004	Fédération Valkyon
+540049005	Trouvez des Wermyrs corrompus sur l'Île de l'Aube.
+540050001	Gelée comme un.. poisson ?
+540050002	Participez à l'Événement de pêche sur glace et utilisez le jeton de titre Glaciaire.
+540050003	Utilisez le jeton de titre Glaciaire.
+540050004	Fédération Valkyon
+540050005	Glaciaire
+540051001	J'ai vu un poisson d'or
+540051002	Participez à l'événement de pêche au requin et utilisez le jeton de titre chanceux
+540051003	Utilisez le jeton titre chanceux.
+540051004	Fédération Valkyon
+540051005	Chanceux
+549998001	Gestionnaire de la plateforme de Menma
+549998002	Décerné aux membres en exercice de l'équipe TERA de Menma !
+549998003	Awarded to the currently serving members of Menma's TERA Team !
+549998011	Devenez le gestionnaire de la plate-forme TERA de Menma
+549998501	Gestionnaire de la plate-forme
+549999001	Responsable des opérations de Menma
+549999002	Attribué aux membres actuels de l'équipe TERA de Menma !
+549999003	Attribué aux membres actuels de l'équipe TERA de Menma !
+549999011	Devenez le responsable des opérations TERA de Menma
+549999501	Responsable des opérations
+550000001	Chef de contenu de Menma
+550000002	Accordé aux membres actuels de l'équipe TERA de Menma !
+550000003	Accordé aux membres actuels de l'équipe TERA de Menma !
+550000011	Devenez le chef de contenu de Menma's TERA
+550000501	Chef de contenu
+550001001	Designer de contenu de Menma
+550001002	Accordé aux membres actuels de l'équipe TERA de Menma !
+550001003	Accordé aux membres actuels de l'équipe TERA de Menma !
+550001011	Devenez le designer de contenu de Menma's TERA
+550001501	Designer de contenu
+550002001	Gestionnaire de jeu de Menma
+550002002	Accordé aux membres actuels de l'équipe TERA de Menma !
+550002003	Accordé aux membres actuels de l'équipe TERA de Menma !
+550002011	Devenez le gestionnaire de jeu de Menma's TERA
+550002501	Gestionnaire de jeu
+550003001	Gestionnaire communautaire de Menma
+550003002	Accordé aux membres actuels de l'équipe TERA de Menma !
+550003003	Accordé aux membres actuels de l'équipe TERA de Menma !
+550003011	Devenez le gestionnaire communautaire de Menma's TERA
+550003501	Gestionnaire communautaire
+550004001	Développeur de Menma
+550004002	Accordé aux développeurs actuels de l'équipe TERA de Menma !
+550004003	Accordé aux développeurs actuels de l'équipe TERA de Menma !
+550004011	Devenez le développeur communautaire de Menma's TERA
+550004501	Développeur
+550007001	Invadeur de la côte
+550007002	A remporté une fois le Territoire côtier.
+550007003	A remporté une fois le Territoire côtier.
+550007004	Fédération Valkyon
+550007005	Victoires du Territoire côtier :
+550008001	Gouvernail
+550008002	A remporté dix fois le Territoire côtier.
+550008003	A remporté dix fois le Territoire côtier.
+550008004	Fédération Valkyon
+550009001	Stratège du littoral
+550009002	A remporté 50 fois le Territoire côtier.
+550009003	A remporté 50 fois le Territoire côtier.
+550009004	Fédération Valkyon
+550010001	Blitzkrieg du littoral
+550010002	A remporté 150 fois le Territoire côtier.
+550010003	A remporté 150 fois le Territoire côtier.
+550010004	Fédération Valkyon
+550010005	Victorieux
+550011001	Roi de la côte
+550011002	A remporté 500 fois le Territoire côtier.
+550011003	A remporté 500 fois le Territoire côtier.
+550011004	Fédération Valkyon
+550011005	Roi de la côte
+550012001	Pionnier de la bataille de la côte
+550012002	A obtenu la première place au Territoire côtier.
+550012003	A obtenu la première place au Territoire côtier.
+550012004	Fédération Valkyon
+550013001	Tactique de la côte
+550013002	A obtenu la première place au Territoire côtier 10 fois.
+550013003	A obtenu la première place au Territoire côtier 10 fois.
+550013004	Fédération Valkyon
+550014001	Conquérant de la bataille côtière
+550014002	A obtenu la première place au Territoire côtier 25 fois.
+550014003	A obtenu la première place au Territoire côtier 25 fois.
+550014004	Fédération Valkyon
+550015001	As du champ de bataille côtier
+550015002	A obtenu la première place au Territoire côtier 50 fois.
+550015003	A obtenu la première place au Territoire côtier 50 fois.
+550015004	Fédération Valkyon
+550016001	Seigneur du littoral
+550016002	A obtenu la première place au Territoire côtier 100 fois.
+550016003	A obtenu la première place au Territoire côtier 100 fois.
+550016004	Fédération Valkyon
+550016005	Conquérant des côtes
+550017001	Légende du champ de bataille côtier
+550017002	A obtenu la première place au Territoire côtier 200 fois.
+550017003	A obtenu la première place au Territoire côtier 200 fois.
+550017004	Fédération Valkyon
+550017005	Inégalé sur la plage
+550017005	A obtenu la première place au Territoire côtier :
+550018001	C'est une tortue, pas une tortue!
+550018002	A vaincu Tortue littorale 10 fois au Territoire côtier.
+550018003	A vaincu Tortue littorale 10 fois au Territoire côtier.
+550018004	Fédération Valkyon
+550019001	Éliminateur de la soif de sang
+550019002	A vaincu Marteau-pilon orcan assoiffé de sang 10 fois au Territoire côtier.
+550019003	A vaincu Marteau-pilon orcan assoiffé de sang 10 fois au Territoire côtier.
+550019004	Fédération Valkyon
+550020001	Vous méritez un peu de repos
+550020002	A vaincu Zolyn 10 fois au Territoire côtier.
+550020003	A vaincu Zolyn 10 fois au Territoire côtier.
+550020004	Fédération Valkyon
+550021001	Moi, moi-même et D
+550021002	Atteindre 500 victoires dans le Cercle céleste des Champions (Solo).
+550021003	Atteindre 500 victoires dans le Cercle céleste des Champions (Solo).
+550021004	Fédération Valkyon
+550021005	Atteindre 500 victoires dans le Cercle céleste des Champions (Solo).
+550022001	Gagnant du concours de capture d'écran de Menma
+550022002	Attribué à la première place du concours de capture d'écran de Menma 2022!
+550022003	Attribué à la première place du concours de capture d'écran de Menma 2022!
+550022004	Classé 1er au concours de capture d'écran de Menma
+550022005	Gagnant du concours 2023
+550023001	Perle Noire
+550023002	Utilisez le jeton de titre Perle Noire.
+550023003	Utilisez le jeton de titre Perle Noire.
+550023004	Fédération Valkyon
+550023005	Perle Noire
+550024001	Mercenaire
+550024002	Utilisez le jeton de titre Mercenaire.
+550024003	Utilisez le jeton de titre Mercenaire.
+550024004	Fédération Valkyon
+550024005	Mercenaire
+550025001	Trio Infernal
+550025002	Utilisez le jeton de titre Trio Infernal.
+550025003	Utilisez le jeton de titre Trio Infernal.
+550025004	Fédération Valkyon
+550025005	Trio Infernal
+550026001	Légion
+550026002	Utilisez le jeton de titre Légion.
+550026003	Utilisez le jeton de titre Légion.
+550026004	Fédération Valkyon
+550026005	Légion
+550027001	Vous êtes en sécurité avec moi!
+550027002	Utilisez le jeton de titre Gardien d'Arborea.
+550027003	Utilisez le jeton de titre Gardien d'Arborea.
+550027004	Fédération Valkyon
+550027005	Gardien d'Arborea
+550028001	Premier sur le serveur: Gardien du Royaume
+550028002	Participez au deuxième passe de bataille et utilisez le jeton de titre Sauveur.
+550028003	Utilisez le jeton de titre Sauveur.
+550028004	Fédération Valkyon
+550028005	Sauveur
+550029001	Bouclier de la Justice
+550029002	Participez à la deuxième passe de combat et utilisez le jeton de titre Défenseur d'Arborea I.
+550029003	Utilisez le jeton de titre Défenseur d'Arborea I.
+550029004	Fédération de Valkyon
+550029005	Défenseur I
+550030001	Combattant de la terre
+550030002	Participez à la deuxième passe de combat et utilisez le jeton de titre Combattant d'Arborea I.
+550030003	Utilisez le jeton de titre Combattant d'Arborea I.
+550030004	Fédération de Valkyon
+550030005	Combattant I
+800000001	Titre personnel
+800000002	A acheté un titre personnel dans la boutique de Menma.
+800000003	A acheté un titre personnel dans la boutique de Menma.
+800000004	Équipe de Menma
+800000005	Ace
+800000006	A acheté un titre personnel dans la boutique de Menma.
+800000007	Dark Moon Sorcerer
+800000008	Abyssal Devastator
+800000009	Hateful
+800000010	Heroic
+800000011	The Witch
+800000012	xKito Music
+800000013	Yiling Laozu
+800000014	Rise of the Phoenix
+800000015	BUILDERS DO IT BEST
+800000016	Freak
+800000017	Bahaar's Wife
+800000018	Veni Vidi Vici
+800000019	umu
+800000020	Woox of Menma's TERA
+800000021	Bringer of Armageddon
+800000022	Devoted
+800000023	Memento Mori
+800000024	Dark Demon Serch
+800000025	Catgirl
+800000026	:3c
+800000027	Master
+800000028	Luminous
+800000029	Antagonist
+800000030	I Am The Wine!
+800000031	Princess
+800000032	Main Clown of Menma's TERA
+800000033	Ecliptic
+800000034	Professor
+800000035	Ashes of Al'ar
+800000036	Edgelord
+800000037	Higher than Heaven
+800000038	Hopeless
+800000039	Smile
+800000040	Rage
+800000041	. Coffee Femboy .
+800000042	Shinigami
+800000043	Undisputed
+800000044	Midori Racing Queen Neko
+800000045	Guilty Crown
+800000046	Cloud is recruiting, parcel...
+800000047	Mediocre
+800000048	Dominatrix
+800000049	Cute but a Dude
+800000050	Azuki
+800000051	Monachopsis
+800000052	Infamous
+800000053	Liebe Mich
+800000054	Ignorant
+800000055	Warning Points Collector
+800000056	Per Aspera Ad Astra
+800000057	Almighty
+800000058	Silverio Gospel
+800000059	baddie
+800000060	Casley's Bean

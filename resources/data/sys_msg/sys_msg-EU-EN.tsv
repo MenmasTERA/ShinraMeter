@@ -210,6 +210,7 @@
 203	SMT_BF_CANT_USE_ITEM	You can't use that item in a battleground.
 203	SMT_BF_CANT_USE_SKILL_BEFORE_BATTLE	Cannot use that skill in a battleground.
 203	SMT_BF_CANT_USE_SKILL_OUTSIDE_AREA	You can't use that skill here.
+203	SMT_BF_CANT_BAN_PARTY_MEMBER	Cannot use this feature in the battleground.
 302	SMT_BF_CAPTURE_ADDTIME	Your team captured {stronghold}. {minute} minutes added.
 302	SMT_BF_CAPTURE_ADDTIME_ENEMY	They've captured {stronghold}. {minute} minutes added.
 201	SMT_BF_CHATMSG_ATTACKED_STRONGHOLD	{player} has seized {stronghold}.
@@ -500,6 +501,7 @@
 203	SMT_CANT_MESSAGE_BATTLEFIELD	This chat channel is deactivated in the battleground.
 203	SMT_CANT_MESSAGE_WHISPER_BATTLEFIELD	Unable to whisper to enemies in the battleground.
 203	SMT_CANT_MOUNT_THIS_STATE	Cannot mount now.
+203	SMT_CANT_MOUNT_BECAUSE_NOT_EQUIPED	Failed to use the Riding Skill because you are not equipped with the required item.
 203	SMT_CANT_MOVE_ITEM	You can't move items being traded.
 203	SMT_CANT_PARCEL_CURSE_EQUIP_ITEM	Cursed items can't be mailed.
 203	SMT_CANT_PARCEL_DREAM_PIECE	You can't mail a dream piece.
@@ -569,7 +571,7 @@
 203	SMT_CAN_ONLY_ENTER_PARTY_FREE_SERVICE	You can only join {party} with this account type.
 203	SMT_CAN_ONLY_RECEIVE_MAIL_BY_MINIMAP_BUTTON	Please use a banker to send mail or collect a parcel.
 203	SMT_CAN_ONLY_RECEIVE_MAIL_FREE_SERVICE	You can only receive mail with this account type.
-203	SMT_CAN_PARTY_BAN_ONLY_IN_DUNGEON	Instance-matched parties can only kick members inside an instance.
+203	SMT_CAN_PARTY_BAN_ONLY_IN_DUNGEON	Because instance matching created the {party}, you can only kick members inside a dungeon.
 203	SMT_CBF_FLYSHIP_CANT_DROP	No falling zone.
 201	SMT_CHANGELOOK_PROGRESS_CANCEL	Canceled appearance change.
 201	SMT_CHANGELOOK_PROGRESS_SUCCESS	Appearance change complete.
@@ -660,19 +662,19 @@
 302	SMT_CHRONOSCROLL_USE_FAILURE_RETRY_AGAIN	Cannot use a voucher right now. Please try again.
 201	SMT_CITYWAR_ANNOUNCE_DESTROY_BASE	{name} from <font color = '#ff5252'>{guild1}</font> <font color = '#ff5252'>destroyed {guild2}'s</font> tower.
 201	SMT_CITYWAR_OUTPOST_DESTROYED_DUE_TO_LACK_OF_MINIMUM_PERSONNEL	<font color = '#ff5252'>{guild}</font> failed to meet the minimum party size. <font color = '#ff5252'>{guild}</font>'s Guild Tower has been destroyed.
-203	SMT_NOT_ENOUGH_GUILD_POINT_TO_ENTRY_CITYWAR	You don't have enough Valderon Tokens to enter.
-201	SMT_CITYWAR_ANNOUNCE_END	Civil Unrest: Velika ends in 10 minutes.
+203	SMT_NOT_ENOUGH_GUILD_QUEST_POINT_TO_ENTRY_CITYWAR	You don't have enough Valderon Tokens to enter.
+201	SMT_CITYWAR_ANNOUNCE_END	Civil Unrest: Island of Dawn ends in 10 minutes.
 205	SMT_CITYWAR_ANNOUNCE_FIND	{name} found [{guild}]'s tower.
-201	SMT_CITYWAR_ANNOUNCE_START	Civil Unrest: Velika begins in 10 minutes. You will be automatically teleported to the start point when the event begins.
-203	SMT_ITEM_CANNOT_USE_NOBASE	Your guild did not build a tower before Civil Unrest: Velika began.
+201	SMT_CITYWAR_ANNOUNCE_START	Civil Unrest: Island of Dawn begins in 10 minutes. You will be automatically teleported to the start point when the event begins.
+203	SMT_ITEM_CANNOT_USE_NOBASE	Your guild did not build a tower before Civil Unrest: Island of Dawn began.
 203	SMT_CITYWAR_BASE_FAIL_AREA	You cannot build a guild tower here.
-203	SMT_CITYWAR_BASE_FAIL_DURING_CITYWAR	Guild towers must be built before Civil Unrest: Velika begins.
+203	SMT_CITYWAR_BASE_FAIL_DURING_CITYWAR	Guild towers must be built before Civil Unrest: Island of Dawn begins.
 203	SMT_CITYWAR_BASE_FAIL_GROUNDALT	Guild towers must be built within 3m of flat ground.
 203	SMT_CITYWAR_BASE_FAIL_MAXALT	Guild towers cannot be built at high elevations.
 203	SMT_CITYWAR_BASE_FAIL_MINALT	Guild towers cannot be built at low elevations.
 203	SMT_CITYWAR_BASE_FAIL_MULTI	Your guild has already built a tower.
 203	SMT_CITYWAR_BASE_FAIL_NO_GUILD	You are not in a guild.
-203	SMT_CITYWAR_BASE_FAIL_PROXIMATE	You cannot build a guild tower within 30m of another guild's tower.
+203	SMT_CITYWAR_BASE_FAIL_PROXIMATE	You cannot build a guild tower within 100m of another guild's tower.
 203	SMT_CITYWAR_BASE_FAIL_SLOPEALT	You cannot build a guild tower here. Try again in another area.
 203	SMT_CITYWAR_BASE_NOTEXIST_CELL	Guild towers must be built within 10m of flat ground.
 203	SMT_CITYWAR_BASE_FAIL_SYSTEM_GUILD	System guilds cannot build a guild tower.
@@ -681,23 +683,23 @@
 203	SMT_CITYWAR_BASE_WARNING_UNDERATTACK	Your guild tower is under attack!
 202	SMT_CITYWAR_BOSS_APPEAR	<font color = '#fcb7ff'>{npcname}</font>, {title} has spawned.
 202	SMT_CITYWAR_BOSS_DEATH	{name} from <font color = '#fcb7ff'>{guild}</font> killed <font color = '#fcb7ff'>{npcname}</font>.
-202	SMT_CITYWAR_END_FREE	<font color = '#e4e4e4'>Civil Unrest: Velika has ended.</font><BR><font color = '#f7ff7a'>{cityname} is free.</font>
-202	SMT_CITYWAR_END_LAST_BASE	<font color = '#e4e4e4'>Civil Unrest: Velika has ended.</font><BR><font color = '#f7ff7a'>{guild} won!</font>
+202	SMT_CITYWAR_END_FREE	<font color = '#e4e4e4'>Civil Unrest: Island of Dawn has ended.</font><BR><font color = '#f7ff7a'>{cityname} is free.</font>
+202	SMT_CITYWAR_END_LAST_BASE	<font color = '#e4e4e4'>Civil Unrest: Island of Dawn has ended.</font><BR><font color = '#f7ff7a'>{guild} won!</font>
 202	SMT_CITYWAR_END_REMOVE_BASE	Guild towers are being automatically removed.
-203	SMT_CITYWAR_FAIL_ENTER_CLOSE	Civil Unrest: Velika is inactive at this time.
-203	SMT_CITYWAR_FAIL_ENTER_OUTLAW	You cannot enter Civil Unrest: Velika when Outlaw Declaration is on.
-203	SMT_CITYWAR_FAIL_ENTER_BAN	Your guild cannot participate in Civil Unrest: Velika at this time. Please contact Customer Support.
-203	SMT_CITYWAR_FAIL_ENTER_LEVEL	You must be level 11+ to participate in Civil Unrest: Velika.
-203	SMT_CITYWAR_FAIL_ENTER_INTERESTED_ONLY	Your guild must have built a guild tower before Civil Unrest: Velika started to participate.
+203	SMT_CITYWAR_FAIL_ENTER_CLOSE	Civil Unrest: Island of Dawn is inactive at this time.
+203	SMT_CITYWAR_FAIL_ENTER_OUTLAW	You cannot enter Civil Unrest: Island of Dawn when Outlaw Declaration is on.
+203	SMT_CITYWAR_FAIL_ENTER_BAN	Your guild cannot participate in Civil Unrest: Island of Dawn at this time. Please contact Customer Support.
+203	SMT_CITYWAR_FAIL_ENTER_LEVEL	You must be level 11+ to participate in Civil Unrest: Island of Dawn.
+203	SMT_CITYWAR_FAIL_ENTER_INTERESTED_ONLY	Your guild must have built a guild tower before Civil Unrest: Island of Dawn started to participate.
 203	SMT_CITYWAR_FAIL_ENTER_MAX	The channel is full.
-203	SMT_CITYWAR_FAIL_ENTER_RETIRE	If your guild tower is destroyed during Civil Unrest: Velika, you cannot re-enter.
+203	SMT_CITYWAR_FAIL_ENTER_RETIRE	If your guild tower is destroyed during Civil Unrest: Island of Dawn, you cannot re-enter.
 203	SMT_CITYWAR_ANNOUNCE_NOENTER	Available starting from {time}.
 201	SMT_CITYWAR_GUILD_KILL	<font color = '#40fb40'>{Name1}</font> <font color = '#c8c8b6'> has defeated </font> <font color = '#ee1c24'>{GuildName2} {Name2}</font> <font color = '#c8c8b6'>.</font>
 201	SMT_CITYWAR_GUILD_DEATH	<font color = '#ee1c24'>{GuildName2} {Name2}</font> <font color = '#c8c8b6'> has killed </font> <font color = '#40fb40'>{Name1}</font> <font color = '#c8c8b6'>.</font>
 201	SMT_CITYWAR_REWARD_RANKEXP	As a reward for rank <font color = '#01ff96'>{WARRANK}</font> in Civil Unrest, your guild received <font color = '#01ff96'>+{EXPPOINT}</font> Guild XP.
-201	SMT_CITYWAR_REWARD_CONTRIBUTION	You have earned <font color = '#01ff96'>+{CPOINT}</font> for participating in Civil Unrest: Velika.
+201	SMT_CITYWAR_REWARD_CONTRIBUTION	You have earned <font color = '#01ff96'>+{CPOINT}</font> for participating in Civil Unrest: Island of Dawn.
 202	SMT_CITYWAR_OPTIMIZE_OPTION	Your system settings have been optimized. Leaving this zone will revert your settings to normal. This option can be disabled in Options - Game.
-202	SMT_CITYWAR_START	<font color = '#ffee92'>Civil Unrest: Velika has started.</font>
+202	SMT_CITYWAR_START	<font color = '#ffee92'>Civil Unrest: Island of Dawn has started.</font>
 202	SMT_CITYWAR_NONPK_AREA	You cannot use Outlaw Declaration in this zone.
 203	SMT_CLEAR_CURSE_FAILED	You failed to remove the curse.
 201	SMT_CLEAR_CURSE_SUCCESS	You sense the curse fading.
@@ -809,13 +811,16 @@
 201	SMT_DUNGEONMATCHING_BONUS_COMPENSATION	Your reward for accomplishing the dungeon goal was sent by parcel post.
 201	SMT_DUNGEONMATCHING_CALL_COMPENSATION	The Valkyon Federation sent you a reward via parcel post.
 201	SMT_DUNGEONMATCHING_CANCEL	Canceled Instance Matching.
+201	SMT_DUNGEONMATCHING_CANCEL2	Canceled instance matching due to changes in party status.
 203	SMT_DUNGEONMATCHING_CANNOT	You can't do that while instance matching between servers is enabled.
-203	SMT_DUNGEONMATCHING_CANNOT_TELEPORT	You can't enter while instance matching between servers is disabled.
-203	SMT_DUNGEONMATCHING_CANT_PARTY_BAN	Because instance matching created the {party}, you can only kick members inside a dungeon.
+203	SMT_DUNGEONMATCHING_CANNOT_TELEPORT	You must be in the {party} matching queue to enter.
+203	SMT_DUNGEONMATCHING_CANT_PARTY_BAN	Can be reset after entering.
 203	SMT_DUNGEONMATCHING_CANT_REQUEST1	Some party members aren't eligible for instance matching.
 203	SMT_DUNGEONMATCHING_CANT_REQUEST2	You have a full {party}.
 203	SMT_DUNGEONMATCHING_CANT_REQUEST3	The {party} composition is not valid.
 203	SMT_DUNGEONMATCHING_CANT_REQUEST4	{UserName} can’t use instance matching.
+203	SMT_DUNGEONMATCHING_CANT_REQUEST6	You can't make matching requests while in this Lobby.
+203	SMT_DUNGEONMATCHING_CANT_REQUEST7	Matching requirements unmet.
 203	SMT_DUNGEONMATCHING_DEL_REQUEST	Canceling instance matching. Please wait.
 201	SMT_DUNGEONMATCHING_DOING	Instance matching is in progress. Please wait.
 201	SMT_DUNGEONMATCHING_JOIN_COMPENSATION	You received a reward for instance matching via parcel post.
@@ -1262,6 +1267,7 @@
 201	SMT_ITEM_MIX_SUCCESS	Well done!
 203	SMT_ITEM_RECEIVER_INVEN_FULL	{UserName}'s inventory is full. The item cannot be released.
 203	SMT_ITEM_RESET_CANT	Item option cannot be changed.
+203	SMT_ITEM_RESET_BIND	Cannot be used on an unbound item.
 201	SMT_ITEM_RESET_SUCCESS	Enigma completed. Enchantments changed.
 204	SMT_ITEM_ROULETTE_VALUE	{UserName}'s roll result for {ItemName}: {Amount}
 203	SMT_ITEM_UNBIND_MSGBOX_MESSAGE	You can only liberate {ItemName} {UnbindCount} times. Do you want to liberate?
@@ -1332,7 +1338,7 @@
 201	SMT_LOAN_REGISTER_LOAN_INTEREST_RATE	SMT_LOAN_REGISTER_LOAN_INTEREST_RATE
 201	SMT_LOAN_REGISTER_LOAN_MONEY	SMT_LOAN_REGISTER_LOAN_MONEY
 201	SMT_LOAN_REGISTER_MORTGAGE_FAILED	SMT_LOAN_REGISTER_MORTGAGE_FAILED
-201	SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED	You have used up all your limited playtime. Please watch Tera-europe.com for dates of future test periods.
+201	SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED	You have used up all your limited playtime. Please watch menmastera.com for dates of future test periods.
 209	SMT_LOOTED_ITEM	You receive {ItemName} ×{ItemAmount}
 211	SMT_LOOTED_MONEY	You receive {Money@money}
 209	SMT_LOOTED_SPECIAL_ITEM	You receive {ItemName} ×{ItemAmount}
@@ -1616,7 +1622,7 @@
 208	SMT_PK_SYSMSG_KILL_OBJECT	You killed {player}.
 208	SMT_PK_SYSMSG_KILL_SUBJECT	{player} killed you.
 208	SMT_PK_SYSMSG_START	PvP has begun.
-201	SMT_PLAYTIME_START	Welcome to Menma's TERA. Join us on discord at http://discord.gg/YjUnmbgVjX for the latest news.
+201	SMT_PLAYTIME_START	Welcome to Menma's TERA. Join us on discord at http://discord.gg/menmastera for the latest news!
 201	SMT_PLAYTIME_TIMER	You've been playing for {@select:{PlayTime}/no/an/{PlayTime}} hour{@select:{PlayTime}/s//s}.
 201	SMT_PLAY_GUIDE_COMPLETE_EVENT	You completed a mission from {EventName}.
 201	SMT_PLAY_GUIDE_NEW_EVENT	You have a new mission in {EventName}.
@@ -1639,7 +1645,7 @@
 201	SMT_PRODUCE_SKILL_PROF_LIMIT	That material can no longer increase your skill level.
 203	SMT_PROHIBITED_ACTION_CAPTURE_ON_RIDE	You cannot capture sites while on a mount.
 203	SMT_PROHIBITED_ACTION_ON_RIDE	You can't do that right now.
-203	SMT_PROHIBITED_ACTION_ON_TRANSFORMATION	You cannot unequip item while brooch is in effect.
+203	SMT_PROHIBITED_ACTION_ON_TRANSFORMATION	You can't do that during a transformation.
 201	SMT_PROTECT_QUEST_START	Starting defense quest. Waves incoming.
 302	SMT_PVE_BATTLEFIELD_ROUND_END	Round {ROUNDNUMBER} will be over in {sec} seconds.
 201	SMT_PVE_INFO_DEATH	{UserName} was defeated by {NpcName}.
@@ -1703,6 +1709,8 @@
 201	SMT_REJECT_TRADE	{UserName} rejected a trade.
 201	SMT_REJECT_TRADE_OPPONENT	{Opponent} rejected a trade.
 204	SMT_REJECT_VOTE_PARTYPLAYER_BAN	{UserName} declined.
+204	SMT_REJECT_VOTE_PARTY_DUNGEONRESET	Someone has declined to reset the dungeon.
+204	SMT_REJECT_VOTE_PARTY_DISMISS	Someone has declined to disband the group.
 201	SMT_REMAIN_PLAY_TIME_HOUR	Remaining playtime: {Hour} hour{@select:{Hour}/s//s}
 201	SMT_REMAIN_PLAY_TIME_MINUTE	Remaining playtime: {Minute} minute{@select:{Minute}/s//s}
 201	SMT_REMOVE_PARTY_SEARCH_FAILED	SMT_REMOVE_PARTY_SEARCH_FAILED
@@ -1744,13 +1752,13 @@
 203	SMT_RETURN_PCBANG_CRYSTAL_MESSAGE	Crystals and niveots used in the items will be sent back to you by mail when the equipment available for PC cafes are deleted.
 203	SMT_RETURN_PCBANG_CRYSTAL_SENDER	PC café player Help
 203	SMT_RETURN_PCBANG_CRYSTAL_TITLE	Crystal, niveots return guide
-203	SMT_RE_ABUSE_LETTER_RESTRICTION	Your {desc} entry violates our rules of conduct.
+203	SMT_RE_ABUSE_LETTER_RESTRICTION	That name is taken or unavailable.
 203	SMT_RE_ALPHANUMERICONLY_RESTRICTION	Only alpha-numeric characters are allowed for {desc}.
 203	SMT_RE_BLANK_RESTRICTION	You can't use spaces in {desc}.
 203	SMT_RE_CHINESE_CLASSICS_RESTRICTION	You can't use Chinese characters in {desc}.
-203	SMT_RE_CONFIG_LETTER_RESTRICTION	{desc} contains an unavailable word.
+203	SMT_RE_CONFIG_LETTER_RESTRICTION	That name is taken or unavailable.
 203	SMT_RE_EXPANDED_HANGEUL_RESTRICTION	You can't use expanded Korean in {desc}.
-203	SMT_RE_FORBIDDEN_NAME_RESTRICTION	You can't use that word in {desc}.
+203	SMT_RE_FORBIDDEN_NAME_RESTRICTION	That name is taken or unavailable.
 203	SMT_RE_IMPERFECT_HANGEUL_RESTRICTION	You can't use incompleted Korean in {desc}.
 203	SMT_RE_LENGTHASCIIONLY_RESTRICTION	{desc} must be alpha-numeric with a maximum length of {max}.
 203	SMT_RE_LENGTH_RESTRICTION	Maximum length for {desc} is {max}.
@@ -2094,7 +2102,7 @@
 203	SMT_WARNING_DELETE_PERIOD_ITEM	Duration for {item} is ending soon. It will disappear from inventory when the duration ends.
 203	SMT_WARNING_REINFORCED_OR_MASTERPIECE_EQUIPMENT	That equipment is masterwork or enchanted.&#xA;
 201	SMT_WARN_EXISTING_WITHDRAW_ONLY_WAREHOUSE	You have items in a temporary bank. Please check the temporary bank.
-203	SMT_WARN_PLAY_MATINEE	The movie cannot be played because you have not selected a character, or the selected character hasn't unlocked this movie yet.
+203	SMT_WARN_PLAY_MATINEE	Plays the video once you’ve selected a character.
 201	SMT_WARN_TO_CHANGE_GUILD_NAME	Your guild name must be changed due to the server merge. You can change your guild name in the Guild Details tab of your Guild UI.
 203	SMT_WORKOBJECT_CANT_USED_ALREADY_SPAWN	Summoned creature already exists.
 201	SMT_WORLD_CHANNEL_MOVED	Moving to channel {number}.
@@ -2194,7 +2202,7 @@
 203	SMT_LEARN_GUILD_SKILL_FAIL_GUILD_PRE_SKILL	Your guild must learn the preceding skill first.
 205	SMT_LEARN_GUILD_SKILL_SUCCESS	Your guild has learned a new skill.
 201	SMT_FIELDNAMED_DIE	<font color = '#b967ff'>{npcName}</font> is defeated.
-201	SMT_FIELDNAMED_RANK	{userName}</font>'s raid party earned rank <font color='#1DDB16'>{rank}</font> rewards.
+201	SMT_FIELDNAMED_RANK	<font color='#1DDB16'>{userName}</font>'s raid party earned rank <font color='#1DDB16'>{rank}</font> rewards.
 203	SMT_GUILD_STORE_FAIL_AUTHORITY	You must have authority to use guild funds to take this action.
 203	SMT_GUILD_STORE_FAIL_GUILD_MONEY	Your guild does not have enough guild funds for this.
 203	SMT_GUILD_STORE_FAIL_GUILD_LEVEL	Your guild level is not high enough.
@@ -2264,6 +2272,7 @@
 203	SMT_DUALOPTION_STRING_BEFORE	Active a second effect set: [Shift + R-Click]
 203	SMT_DUALOPTION_STRING_AFTER	Switch Effect Set: [Shift + R-Click]&#xA;View other set: [Ctrl]
 203	SMT_HUDDLEADDING_USER	{Username} can’t trade items or gold.
+203	SMT_HUDDLEADDING_USER_LEVEL3	{Username} can’t trade items or gold.
 302	SMT_CATCHBACK_SYSMSG_TOOCLOSE	Target is too close. Cannot use skill.
 203	SMT_CAN_USE_IN_DUNGEON_ONLY	Can only be used in dungeons.
 203	SMT_CAN_DUNGEON_RESET_ONLY_PARTY_CHIEF	That function can only be used by a group leader.
@@ -2276,7 +2285,7 @@
 302	SMT_ACCESSORY_TRANSFORMER_CANNOT_USE_WHILE_TRANSFORMING	Restyler is not available during transformation.
 302	SMT_ACCESSORY_TRANSFORMER_CLOSED	This action cannot be used now.
 302	SMT_ACCESSORY_TRANSFORMER_ONLY_HAIR_TRANSFORMING	You can only change hair accessories.
-302	SMT_ACCESSORY_TRANSFORMER_FREE_USE	Allows free accessory restyling for 1 time only. [{ItemName}] is required to restyle again.
+302	SMT_ACCESSORY_TRANSFORMER_FREE_USE	Allows free accessory restyling for 1 time only. {ItemName} is required to restyle again.
 302	SMT_ACCESSORY_TRANSFORMER_PURCHASE_USE	[{ItemName}] x <font color = '#00FFFF'>{Amount}</font> will be used to save changes.
 302	SMT_ACCESSORY_TRANSFORMER_PURCHASE_USE_NOCOST	Do you want to save your changes?
 201	SMT_OPTIONRESET_FAIL	Failed to change enchantment effect.
@@ -2426,3 +2435,27 @@
 203	SMT_CHANNEL_FULL_MESSAGE	The channel is currently full.
 201	SMT_MYTHICCRAFT_FAIL	Failed to craft Mythic Gear.
 203	SMT_CANNOT_INHERITANCE_EQUIP_ITEM	You cannot use enchanting scrolls on unbound gear.
+201	SMT_ENCHANT_PROTECT	{ItemName} is protected.
+201	SMT_ACTPOINT_LOOTING	You obtained {point} Adventure Coins.
+201	SMT_DUNGEON_ENTER_START	{DungeonName} is now available.
+201	SMT_DUNGEON_ENTER_END	{DungeonName} is no longer available.
+201	SMT_DUNGEONMATCHING_CANCEL_TIME	There is an unavailable dungeon on the matching list. Matching has been canceled.
+201	SMT_DUNGEON_PLUS_RECRUIT_CANCEL_TIME	The dungeon is unavailable. Recruiting has been canceled.
+203	SMT_CANT_DUNGEON_PLUS_RECRUIT_TIME	You can’t enter this dungeon at this time, nor can you recruit members.
+201	SMT_START_SERVANT_ADVENTURE_EVENT_ACQUIRE_ITEM_MULTIPLE	Your partner can obtain {MultiValue} times more items during this event.
+201	SMT_START_SERVANT_ADVENTURE_EVENT_TIME_REDUCTION	Your partner's adventure time is reduced by {TimeValue}% during this event.
+201	SMT_ALREADY_MAX_PROF_POINT	You cannot gain any more {ProfType} proficiency.
+201	SMT_ALREADY_MAX_SKILL_PROF_POINT	You cannot gain any more {SkillProfType} proficiency.
+201	SMT_CANT_ARTISAN_DOWNGRADE_TOOLTIP	You cannot use that item with your master grade.
+201	SMT_CANT_ARTISAN_UPGRADE_MISMATCH_TOOLTIP	You cannot use the item due to insufficient {SkillProfType} proficiency and master grade.
+201	SMT_AREA_CANT_PARTY	You cannot join a group here. All groups will be dismissed.
+201	SMT_AREA_LEAVE_PARTY	You cannot join a group here. All groups will be dismissed.
+203	SMT_CHAT_PRIVATE_CHANNEL_NOT_SUPPORTED	Private channels cannot be created.
+209	SMT_TBA_LOOTED_GACHA_ITEM	Adding {ItemAmount}x {ItemName} to the loot.
+202	SMT_TBA_SELECT_TEAM_CONFIRM	{TeamCount} team(s) have finished picking heroes.
+302	SMT_TBA_CHATMSG_PRE_START	Entering the battleground in {sec} sec(s).
+201	SMT_TBA_GACHA_RESULT	Opened {BoxCount} {GachaBoxName} and obtained {ResultCount} {GachaResultItemName}.
+201	SMT_TBA_RUNE_SAVE_CONFIRM	Changes to the Rune Page [{RunePageName}] have been saved.
+201	SMT_TBA_PLAYTIME_START	Welcome to the world of TERA BATTLE ARENA.
+203	SMT_TBA_CHAT_QNA_NOTICE_LINK	<font color = '#FFFF00'>Click "Go"</font>
+203	SMT_TBA_CHAT_QNA_NOTICE	Purchasing gold or items from third-party sources supports fraud and account theft, and may result in an account ban for all parties involved in the transaction.

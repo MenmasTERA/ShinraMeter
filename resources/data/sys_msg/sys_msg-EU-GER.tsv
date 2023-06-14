@@ -663,18 +663,18 @@
 201	SMT_CITYWAR_ANNOUNCE_DESTROY_BASE	<font color = '#ff5252'>{guild1}</font> {name} hat den Außenposten der Gilde <font color = '#ff5252'>{guild2}</font> <font color = '#ff5252'>zerstört</font>.
 201	SMT_CITYWAR_OUTPOST_DESTROYED_DUE_TO_LACK_OF_MINIMUM_PERSONNEL	<font color = '#ff5252'>{guild}</font> Der Außenposten der Gilde wurde automatisch zerstört, weil zu wenig Mitglieder am Fortschritt teilgenommen haben.
 203	SMT_NOT_ENOUGH_GUILD_QUEST_POINT_TO_ENTRY_CITYWAR	Ihr habt noch nicht genug Valderion-Abzeichen durch Gildenmission gesammelt, um beizutreten.
-201	SMT_CITYWAR_ANNOUNCE_END	Der Gildenkrieg endet in 10 Minuten.
+201	SMT_CITYWAR_ANNOUNCE_END	Gilden Krieg: Insel der Dämmerung endet in 10 Minuten.
 205	SMT_CITYWAR_ANNOUNCE_FIND	{name} hat den Außenposten der Gilde [{guild}] entdeckt.
-201	SMT_CITYWAR_ANNOUNCE_START	Der Gildenkrieg beginnt in 10 Minuten. Mit Beginn werdet Ihr automatisch an den Startpunkt teleportiert.
-203	SMT_ITEM_CANNOT_USE_NOBASE	Es wurde kein Außenposten errichtet.
+201	SMT_CITYWAR_ANNOUNCE_START	Gilden Krieg: Insel der Dämmerung beginnt in 10 Minuten. Du wirst automatisch an den Start Punkt teleportiert wenn der Event beginnt.
+203	SMT_ITEM_CANNOT_USE_NOBASE	Deine Gilde hat keinen Turm gebaut bevor der Gilden Krieg: Insel der Dämmerung begann.
 203	SMT_CITYWAR_BASE_FAIL_AREA	Es ist nicht möglich, hier einen Außenposten zu errichten.
-203	SMT_CITYWAR_BASE_FAIL_DURING_CITYWAR	Kann während eines Gildenkrieges nicht errichtet werden.
+203	SMT_CITYWAR_BASE_FAIL_DURING_CITYWAR	Gilden Türme müssen gebaut sein, bevor der Gilden Krieg: Insel der Dämmerung beginnt.
 203	SMT_CITYWAR_BASE_FAIL_GROUNDALT	Ihr könnt den Außenposten an einem ebenen Ort errichten, der in 3m Umkreis keine großen Höhenunterschiede aufweist.
 203	SMT_CITYWAR_BASE_FAIL_MAXALT	An einem zu hohen Ort ist das Errichten nicht möglich.
 203	SMT_CITYWAR_BASE_FAIL_MINALT	An einem zu niedrigen Ort ist das Errichten nicht möglich.
 203	SMT_CITYWAR_BASE_FAIL_MULTI	Hier existiert bereits ein Außenposten.
 203	SMT_CITYWAR_BASE_FAIL_NO_GUILD	Ihr gehört keiner Gilde an.
-203	SMT_CITYWAR_BASE_FAIL_PROXIMATE	Errichten nicht möglich. Im Umkreis von 30m befindet sich der Außenposten einer anderen Gilde.
+203	SMT_CITYWAR_BASE_FAIL_PROXIMATE	Du kannst keinen Gilden Turm innerhalb von 100m eines anderen Gilden Turm bauen.
 203	SMT_CITYWAR_BASE_FAIL_SLOPEALT	Nicht genügend Platz oder die Ebene ist zu schief für einen Außenposten.
 203	SMT_CITYWAR_BASE_NOTEXIST_CELL	Der Ort, an dem der Posten errichtet werden soll, ist zu schief.
 203	SMT_CITYWAR_BASE_FAIL_SYSTEM_GUILD	Eine Systemgilde kann keinen Außenposten errichten.
@@ -683,23 +683,23 @@
 203	SMT_CITYWAR_BASE_WARNING_UNDERATTACK	Die Feinde greifen den Außenposten an.
 202	SMT_CITYWAR_BOSS_APPEAR	{title} <font color = '#fcb7ff'>{npcname}</font> ist erschienen.
 202	SMT_CITYWAR_BOSS_DEATH	<font color = '#fcb7ff'>{guild}</font> {name}hat <font color = '#fcb7ff'>{npcname}</font> erledigt.
-202	SMT_CITYWAR_END_FREE	<font color = '#e4e4e4'>Der Gildenkrieg wurde beendet. </font><BR><font color = '#f7ff7a'>{cityname}wurde befreit.</font>
-202	SMT_CITYWAR_END_LAST_BASE	<font color = '#e4e4e4'>Der Gildenkrieg wurde beendet. </font> Die Gilde<BR><font color = '#f7ff7a'>{guild} hat gesiegt!</font>
+202	SMT_CITYWAR_END_FREE	<font color = '#e4e4e4'>Gilden Krieg: Insel der Dämmerung hat geendet.</font><BR><font color = '#f7ff7a'>{cityname} wurde befreit.</font>
+202	SMT_CITYWAR_END_LAST_BASE	<font color = '#e4e4e4'>Gilden Krieg: Insel der Dämmerung hat geendet.</font><BR><font color = '#f7ff7a'>{guild} won!</font>
 202	SMT_CITYWAR_END_REMOVE_BASE	Für den nächsten Gildenkrieg werden die Außenposten automatisch abgebaut.
-203	SMT_CITYWAR_FAIL_ENTER_CLOSE	Die Inhalte des Gildenkriegs sind deaktiviert.
-203	SMT_CITYWAR_FAIL_ENTER_OUTLAW	Ihr könnt als Gesetzloser nicht beitreten.
-203	SMT_CITYWAR_FAIL_ENTER_BAN	Dieser Gilde ist der Eintritt in einen Gildenkrieg verboten. Bitte wendet Euch an den Kundendienst.
-203	SMT_CITYWAR_FAIL_ENTER_LEVEL	Diese Region kann nur von Charakteren ab Stufe 11 betreten werden.
-203	SMT_CITYWAR_FAIL_ENTER_INTERESTED_ONLY	Während eines Gildenkriegs ist das Betreten nur solchen Gildenmitgliedern möglich, die einen Außenposten errichtet haben.
+203	SMT_CITYWAR_FAIL_ENTER_CLOSE	Gilden Krieg: Insel der Dämmerung ist inaktiv um diese Zeit.
+203	SMT_CITYWAR_FAIL_ENTER_OUTLAW	Du kannst den Gilden Krieg: Insel der Dämmerung nicht betreten wenn Outlaw Declaration aktiv ist.
+203	SMT_CITYWAR_FAIL_ENTER_BAN	Deine Gilde kann nicht um diese Zeit im Gilden Krieg: Insel der Dämmerung teilhaben. Bitte kontaktiere den Kundendienst.
+203	SMT_CITYWAR_FAIL_ENTER_LEVEL	Du musst Level 11+ sein um im Gilden Krieg: Insel der Dämmerung teilzuhaben.
+203	SMT_CITYWAR_FAIL_ENTER_INTERESTED_ONLY	Deine Gilde muss einen Gilden Turm gebaut haben, bevor der Gilden Krieg: Insel der Dämmerung beginnt um teilzuhaben.
 203	SMT_CITYWAR_FAIL_ENTER_MAX	Die zulässige Beitrittszahl für den Kanal wurde überschritten.
-203	SMT_CITYWAR_FAIL_ENTER_RETIRE	Wenn der Außenposten während des Gildenkriegs zerstört wurde, ist ein Wiedereintritt nicht möglich.
+203	SMT_CITYWAR_FAIL_ENTER_RETIRE	Du kannst nicht neu beitreten falls im Gilden Krieg: Insel der Dämmerung der Gilden Turm zerstört wurde.
 203	SMT_CITYWAR_ANNOUNCE_NOENTER	Das Betreten ist erst ab {time} Uhr möglich.
 201	SMT_CITYWAR_GUILD_KILL	<font color = '#40fb40'>{Name1}</font><font color = '#c8c8b6'> hat </font><font color = '#ee1c24'>{GuildName2}{Name2}</font><font color = '#c8c8b6'> besiegt.</font>
 201	SMT_CITYWAR_GUILD_DEATH	<font color = '#ee1c24'>{GuildName2}{Name2}</font><font color = '#c8c8b6'> hat </font><font color = '#40fb40'>{Name1}</font><font color = '#c8c8b6'> besiegt.</font>
 201	SMT_CITYWAR_REWARD_RANKEXP	Als Belohnung für den <font color = '#01ff96'>{WARRANK}</font> Platz im Gildenkrieg, erhaltet Ihr <font color = '#01ff96'>+{EXPPOINT}</font> Gilden-EP.
-201	SMT_CITYWAR_REWARD_CONTRIBUTION	Im Gildenkrieg habt Ihr an Teilnahmefortschritt <font color = '#01ff96'>+{CPOINT}</font> erworben.
+201	SMT_CITYWAR_REWARD_CONTRIBUTION	Du erhälst <font color = '#01ff96'>+{CPOINT}</font> für die Teilnahme im Gilden Krieg: Insel der Dämmerung.
 202	SMT_CITYWAR_OPTIMIZE_OPTION	Die Funktion zur System-Optimierung wurde aktiviert. Wenn Ihr den betreffenden Bereich verlasst, werden die eigentlichen Video-Einstellungen wiederhergestellt. Die Funktion kann in den Systemeinstellungen entfernt werden.
-202	SMT_CITYWAR_START	<font color = '#ffee92'>Der Gildenkrieg hat begonnen.</font>
+202	SMT_CITYWAR_START	<font color = '#ffee92'>Gilden Krieg: Insel der Dämmerung hat begonnen.</font>
 202	SMT_CITYWAR_NONPK_AREA	In dieser Region könnt Ihr die Gesetzlosenerklärung nicht verwenden.
 203	SMT_CLEAR_CURSE_FAILED	Ihr konntet den Fluch nicht aufheben.
 201	SMT_CLEAR_CURSE_SUCCESS	Ihr spürt den Fluch schwinden.
@@ -1195,7 +1195,7 @@
 201	SMT_HIT_SMILE_FIREWORK	{UserName} freut sich, Euch zu sehen.
 203	SMT_HOLD_PLAYER_CANT_LEAVE_WORLD	Ihr könnt das Spiel nicht beenden, während Ihr Schaden erleidet.
 203	SMT_HOLD_PLAYER_CANT_USE_ITEM	Ihr könnt den Gegenstand nicht benutzen, während Ihr Schaden erleidet.
-201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	Momentan laufen Events. Besucht https://gameforge.com/de-DE/play/tera für weitere Infos.
+201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	Es gibt laufende Events. Für mehr Informationen besuche https://menmastera.com.
 201	SMT_INCREASE_SKILL_RANK	{Skill} hat nun die Stufe {Rank}.
 201	SMT_INCREMENT_CHARACTER_SOCKET	Ein zusätzlicher Charakterplatz wurde hinzugefügt.
 201	SMT_INGAMESTORE_BASKET_ADDED	Der ausgewählte Gegenstand wurde in Eurem Warenkorb abgelegt.
@@ -1298,7 +1298,7 @@
 204	SMT_JOIN_UNIONPARTY_PARTYPLAYER	{PartyPlayerName} ist der Schlachtgruppe beigetreten.
 201	SMT_KICK_PARTY_FAILED	SMT_KICK_PARTY_FAILED
 201	SMT_KICK_PARTY_SUCCEED	SMT_KICK_PARTY_SUCCEED
-201	SMT_KOREAN_RATING_TEENAGER_PROHIBITED	Auf http://de.tera.gameforge.com gibt es aktuelle News und weitere Informationen. Bitte spielt verantwortungsvoll.
+201	SMT_KOREAN_RATING_TEENAGER_PROHIBITED	Auf menmastera.com findest du die aktuellsten Neuigkeiten und Informationen. Bitte spiele verantwortungsbewusst.
 201	SMT_LEARN_RECIPE	Ihr habt die Herstellung für den folgenden Gegenstand erlernt: {Recipe}.
 204	SMT_LEAVE_PARTY	Ihr habt die {Party} verlassen.
 201	SMT_LEAVE_PARTY_FAILED	SMT_LEAVE_PARTY_FAILED
@@ -1338,7 +1338,7 @@
 201	SMT_LOAN_REGISTER_LOAN_INTEREST_RATE	SMT_LOAN_REGISTER_LOAN_INTEREST_RATE
 201	SMT_LOAN_REGISTER_LOAN_MONEY	SMT_LOAN_REGISTER_LOAN_MONEY
 201	SMT_LOAN_REGISTER_MORTGAGE_FAILED	SMT_LOAN_REGISTER_MORTGAGE_FAILED
-201	SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED	Ihr habt all Eure begrenzte Spielzeit aufgebraucht. Bitte haltet Euch auf http://de.tera.gameforge.com über zukünftig geplante Testphasen auf dem Laufenden.
+201	SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED	Du hast deine ganze limitierte Spielzeit aufgebraucht. Bitte schaue auf menmastera.com für Termine von zukünftigen Test Phasen.
 209	SMT_LOOTED_ITEM	Ihr erhaltet: {ItemAmount} x {ItemName}.
 211	SMT_LOOTED_MONEY	Ihr erhaltet {Money@money}.
 209	SMT_LOOTED_SPECIAL_ITEM	Ihr erhaltet: {ItemAmount} x {ItemName}.
@@ -1622,7 +1622,7 @@
 208	SMT_PK_SYSMSG_KILL_OBJECT	Ihr habt {player} getötet.
 208	SMT_PK_SYSMSG_KILL_SUBJECT	{player} hat Euch getötet.
 208	SMT_PK_SYSMSG_START	PvP-Kampf hat begonnen.
-201	SMT_PLAYTIME_START	Willkommen bei TERA. Besucht https://gameforge.com/de-DE/play/tera für alle Neuigkeiten rund ums Spiel!
+201	SMT_PLAYTIME_START	Willkomen auf Menma's TERA. Join uns auf Discord http://discord.gg/menmastera für die aktuellsten Neuigkeiten!
 201	SMT_PLAYTIME_TIMER	Ihr spielt {@select:{PlayTime}/noch keine/bereits eine/bereits {PlayTime}} Std.
 201	SMT_PLAY_GUIDE_COMPLETE_EVENT	Mission abgeschlossen für: {EventName}
 201	SMT_PLAY_GUIDE_NEW_EVENT	Ihr habt eine neue Mission in {EventName}.

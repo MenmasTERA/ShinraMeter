@@ -14,6 +14,7 @@
 435	Avantage du pack I
 436	Avantage du pack II
 437	Avantage du pack III
+444	Menma's Team
 500	VIP
 520	VIP2
 533	VIP
@@ -32,6 +33,7 @@
 806	User ELITE (Major)
 807	User ELITE (VIP)
 1000	Cybercafé TERA
+1100	Titre Personnel
 10031	Récompense : vous recevez 2 réponses de Valkyon lorsque la recherche d'instances est utilisée.
 10032	Diminue le temps de recharge des instances de moitié et permet d'y avoir accès deux fois plus souvent.
 10033	Acompte : exempté<BR>Frais de courtage : 5 %<BR>Nombre d'inscriptions à la salle des ventes : 50<BR>Négociation de prix du courtier : disponible<BR>Récompense : réduction du temps de rechargement des instances, augmentation du nombre d'accès<BR>Augmentation de la quantité maximale et de la vitesse de rechargement pour l'or du vécu<BR>Système de novice d'instance activé<BR>Potion de chasse et de notoriété activées<BR>Accès premium possible
@@ -46,6 +48,7 @@
 10435	Récompenses de compte permanentes : <BR>8 personnages par serveur<BR>4 onglets de stockage par serveur
 10436	Récompenses de compte permanentes : <BR>10 personnages par serveur<BR>5 onglets de stockage par serveur
 10437	Récompenses de compte permanentes : <BR>12 personnages par serveur<BR>6 onglets de stockage par serveur
+10444	Active Bonuses During Membership:<BR>Instance cooldowns halved and entries doubled<BR>Increased maximum and faster regeneration of Adventure Coins<BR>Special mount and pet<BR>Free teleportation to cities, towns and villages plus your own teleport locations<BR>Various boosts such as 100% increased character experience<BR>NPC summoning scrolls and keys<BR>Up to 50 active offers on the brokerage<BR>Reduced earnest money and instant buy fees from the brokerage<BR>Permanent crystalbind<BR>Additional daily deliveries to fishing NPCs<BR>Twice as many daily quests<BR>+50% skill advancement XP<BR>+100% EP XP<BR>... and much more!
 10600	L'utilisation du compte est restreinte pour certaines fonctions, afin de prévenir d'éventuels abus. <br>Une vérification permet de lever la restriction.
 10601	Récompenses de compte permanentes : <BR>8 personnages disponibles par serveur.<BR>4 onglets de stockage disponibles par serveur.<BR>Titre "Vétéran de la Fédération Valkyon".<BR>Jusqu'à 30 objets actifs à la salle des ventes.
 10602	Une restriction du commerce a été introduite pour prévenir les utilisations abusives de compte. Vous ne pouvez pas faire l'échange d'or ou d'objets.<br>La restriction est automatiquement levée au bout de 168 heures. Même en cas d'authentification, la restriction ne peut être levée qu'après 168 heures.
@@ -62,6 +65,7 @@
 100435	Avantage du pack
 100436	Avantage du pack
 100437	Avantage du pack
+100444	Avantage du pack
 100600	Poste, hôtel des ventes, échange entre utilisateurs, match à mort et entrepôt de guilde
 100601	Avantage du paquet
 100602	Poste, hôtel des ventes, échange entre utilisateurs, match à mort et entrepôt de guilde

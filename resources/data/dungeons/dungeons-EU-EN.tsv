@@ -3,6 +3,12 @@
 2101	Larvae Hatchery	0
 2102	Cliffside Prison	0
 2103	Black Core Engine Room	0
+2105	Kalligar's Arena (Solo)	0
+2501	Campaign Stage 1	0
+2502	Campaign Stage 2	0
+2503	Campaign Stage 3 - Nightmare of Trellum Consurgo	0
+2504	Campaign Stage 4 - Black Core Engine Room	0
+2530	Hero Training Ground	0
 3001	Bastion of Lok (Solo)	0
 3002	Sinestral Manor (Solo)	0
 3003	Cultists' Refuge (Solo)	0
@@ -15,20 +21,40 @@
 3010	Kelsaik's Nest (Solo)	0
 3011	Manaya's Core (Solo)	0
 3012	Training Ground	0
-3013	Argog's Trial	80
 3016	Lilith's Trial	70
 3017	Antaroth's Abyss (7-person)	0
 3018	Dark Reach Citadel (7-person)	0
 3019	Grotto of Lost Souls (7-person)	0
 3020	Sea of Honor	0
-3023	Akalath Quarantine	200
+3023	Akalath Quarantine	250
 3024	Azart Hatchery	0
 3025	Azart Hatchery (Hard)	0
-3026	Corrupted Skynest	250
-3027	Forbidden Arena	250
+3026	Corrupted Skynest	200
+3027	Forbidden Arena [Hagufna]	250
+3028	Grotto of Lost Souls (Hard) (Guide)	0
+3029	Antaroth's Abyss (Hard) (Guide)	0
+3030	Dragon's Nest (20-man)	400
+3031	Outer Core District	0
+3032	Akalath Quarantine (Guide)	0
+3033	Gossamer Vault (Hard) (Guide)	0
+3034	Rampaging RK-9 Kennel	280
+3035	Velik’s Sanctum	0
+3036	Sky Cruiser (Hard)	230
+3037	Bahaar's Sanctum (Guide)	0
+3039	Seren's Garden	0
+3040	Scorching Sky Cruiser Endeavor	300
+3060	Hall of the Argon Queen (Hard)	300
 3101	Gossamer Vault	245
-3126	Corrupted Skynest (Hard) Entrance	250
+3102	Draakon Arena	250
+3103	Forbidden Arena [Undying Warlord]	150
+3104	Lumikan (Low)	0
+3108	Lost Abyss	0
+3110	Forbidden Arena [Doomed Hero]	0
+3126	Corrupted Skynest (Hard) Entrance	280
 3201	Gossamer Vault (Hard)	200
+3202	Draakon Arena (Hard)	280
+3203	Forbidden Arena [Nightmare Undying Warlord]	150
+3204	Lumikan (High)	0
 8999	Velik's Sanctuary	0
 9001	Samael's Residence	0
 9002	Fountain of Shara	0
@@ -53,7 +79,7 @@
 9024	Fane of Kaprima	0
 9025	Balder's Temple	40
 9026	Argon Corpus	40
-9027	Manaya's Core (Hard)	250
+9027	The Plexus (Hard)	280
 9028	Malachai's Lab	0
 9029	Vault of Kaprima	0
 9031	Akasha's Trial	80
@@ -72,14 +98,14 @@
 9045	Bluefirst Mountain	0
 9046	Accursed Oasis	0
 9047	Harvest Festival Hall	0
-9050	Rift's Edge (Hard) (10-Person)	0
+9050	Rift's Edge (Hard)	0
 9051	Squalid Temple	0
 9052	Banquet of Blood	0
-9053	Kezzel's Gorge (7-Person)	0
-9054	Bathysmal Rise (Hard)	0
-9055	Ravenous Gorge (3-Person)	60
-9056	Timescape (Hard)	250
-9057	Akeron's Inferno (Hard)	0
+9053	Kezzel's Gorge (5-Person)	150
+9054	Bathysmal Rise (Hard)	250
+9055	Ravenous Gorge (3-Person)	150
+9056	Timescape (Hard)	0
+9057	Akeron's Inferno (Hard)	250
 9059	Forsaken Island	0
 9060	Kalivan's Dreadnaught (Hard)	0
 9061	Ruin of the Giants	0
@@ -91,7 +117,7 @@
 9067	Demokron Factory (Hard)	330
 9068	Shadow Sanguinary (Hard)	0
 9069	Echoes of Aranea	0
-9070	Manglemire	0
+9070	Manglemire	200
 9071	Necromancer Tomb	40
 9072	Golden Labyrinth	40
 9073	Ebon Tower	40
@@ -127,47 +153,47 @@
 9611	The Abscess (Hard)	0
 9643	Wonderholme (10-Person)	0
 9681	Velik's Dream	0
-9710	Broken Prison	200
+9710	Broken Prison	150
 9711	The Abscess (Hard)	0
 9713	Ghillieglade	0
 9714	Velik's Sanctuary	0
-9716	Sky Cruiser Endeavor	0
+9716	Sky Cruiser Endeavor	200
 9720	Antaroth's Abyss	100
 9724	Fane of Kaprima (Hard)	0
 9725	Balder's Temple (Hard)	0
 9726	Argon Corpus (Hard)	0
 9727	Manaya's Core	40
-9735	RK-9 Kennel	150
-9739	Red Refuge	150
+9735	RK-9 Kennel	170
+9739	Red Refuge	170
 9743	Wonderholme (10-Person)	0
-9750	Rift's Edge (10-Person)	0
-9754	Bathysmal Rise	0
+9750	Rift's Edge	150
+9754	Bathysmal Rise	150
 9756	Timescape	0
-9757	Akeron's Inferno	0
-9759	Forsaken Island (Hard)	250
-9760	Kalivan's Dreadnaught	0
+9757	Akeron's Inferno	150
+9759	Forsaken Island (Hard)	0
+9760	Kalivan's Dreadnaught	150
 9766	Shattered Fleet	0
 9767	Demokron Factory	220
 9768	Shadow Sanguinary	80
-9769	Lilith's Keep	70
-9770	Ruinous Manor	90
+9769	Lilith's Keep	150
+9770	Ruinous Manor	200
 9773	Ebon Tower (Hard)	0
 9775	Kelsaik's Nest (Hard)	0
 9776	Labyrinth of Terror (Hard)	0
-9777	Channelworks (3-Person)	60
-9780	Velik's Hold (7-Person)	100
-9781	Velik's Sanctuary	100
+9777	Channelworks (3-Person)	150
+9780	Velik's Hold (5-Person)	110
+9781	Velik's Sanctuary	110
 9782	Grotto of Lost Souls	0
 9783	Dark Reach Citadel	80
 9793	Akasha's Hideout (Hard)	0
-9794	Thaumetal Refinery	70
+9794	Thaumetal Refinery	170
 9795	Crucible of Fame	0
 9801	Nexus Traverse	0
 9802	Nexus Traverse	0
 9803	Nexus Traverse	0
 9804	Kelsaik's Nest_For Japan Tournaments	0
 9808	Sabex Armory	0
-9809	Macellarius Catacombs	80
+9809	Macellarius Catacombs	90
 9810	Lakan's Prison	0
 9811	The Abscess (7-Person)	0
 9813	Ghillieglade (Solo)	0
@@ -199,18 +225,18 @@
 9889	Cultists' Refuge (Solo)	0
 9894	Saleron's Sky Garden (Solo)	0
 9911	Kelsaik's Raid (10-Person)	0
-9916	Sky Cruiser Endeavor (Hard)	0
-9920	Antaroth's Abyss (Hard)	200
+9916	Sky Cruiser Endeavor (Hard)	280
+9920	Antaroth's Abyss (Hard)	280
 9935	RK-9 Kennel (Hard)	145
 9939	Red Refuge (Hard)	0
 9950	Harrowhold	0
 9969	Lilith's Keep (Hard)	0
-9970	Ruinous Manor (Hard)	125
+9970	Ruinous Manor (Hard)	250
 9975	Kelsaik's Raid (20-Person)	0
 9979	Saravash's Ascent	40
 9980	Velik's Hold (Hard)	0
-9981	Velik's Sanctuary (Hard)	250
-9982	Grotto of Lost Souls (Hard)	200
+9981	Velik's Sanctuary (Hard)	125
+9982	Grotto of Lost Souls (Hard)	220
 9983	Dark Reach Citadel (Hard)	0
 9994	Thaumetal Refinery (Hard)	0
 9999	Blast from the Past	0

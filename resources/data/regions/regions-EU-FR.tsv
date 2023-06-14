@@ -17,7 +17,11 @@
 117	Refuge de Kumas
 118	Berceau des Kumas
 152	Velika : Siècle du chaos guerrier
+154	Civil Unrest: Island of Dawn
+155	Civil Unrest: Celestial Hills
 156	Course aux pièces d'or
+157	Vaults of Valor
+158	Le combat sans fin de Kaia
 200	Île de l'Aube
 201	Velika
 202	Île de l'Aube
@@ -119,10 +123,12 @@
 3034	Hangar du RK-9 (difficile)
 3036	Croiseur céleste (difficile)
 3037	[Entraînement] Temple de Bahaar
+3038	Hydrangea
 3101	Nid de Parquina (facile)
 3102	Résidence des commandants
 3103	Arène du courroux
 3104	Rukmia
+3108	Lost Abyss
 3126	Repaire de Kelsaik (difficile)
 3201	Nid de Parquina (difficile)
 3202	Résidence des commandants (difficile)
@@ -364,6 +370,11 @@
 15603	Ferme
 15604	Marché
 15605	Port
+15701	Mines
+15702	Castle
+15703	Farm
+15704	Market
+15705	Dock
 16001	Val du Croc
 16002	Plaine biscornue
 16003	Champs abandonnés
@@ -1008,7 +1019,7 @@
 90013	63 et 64
 90014	59–60
 90015	60-65
-90016	65
+90016	70
 97201	Entrée de l'Abîme d'Antaros
 99000	Tiarania<br>De 1 à 11
 99001	Forêt féérique<br>De 10 à 15
@@ -1058,7 +1069,7 @@
 99045	Vallée printanière<br>De 61 à 62
 99046	Ex Prima<br>De 62 à 63 (68)
 99047	Arx Umbra<br>De 63 à 65
-99048	Île de l'aube<br>65
+99048	Île de l'aube<br>70 à 74
 99049	Domaine de Rogash<br>70
 99050	Plantation d'Exodor<br>71
 99051	Marécage de Viridian<br>72
@@ -1114,6 +1125,7 @@
 152001	Nid d'Anansha
 152002	Nid de Frygaras
 152003	Nid de Sabranak
+158001	Le combat sans fin de Kaia
 172001	Plaine barbare
 172011	Ascension sinistre
 172012	Plateau Boscan
@@ -1230,6 +1242,7 @@
 303201	[Entraînement] Passage secret de la Forteresse de Berak
 310301	Salle d'attente de l'Arène du courroux
 310302	Chemin vers l'Arène du courroux
+311002	Forbidden Arena Passage
 320301	Salle d'attente de l'Arène du courroux
 320302	Chemin vers l'Arène du courroux
 469001	Arx Umbra : il y a environ 50 ans
@@ -1533,12 +1546,25 @@
 3037002	[Entraînement] Temple de Bahaar : porte scellée
 3037003	[Entraînement] Temple de Bahaar : salle de l'incarnation
 3037004	[Entraînement] Temple de Bahaar : salle de l'incarnation
+3039001	Le Jardin de Serena
+3040001	Endeavour, le croiseur du ciel brûlant
+3040002	Porte sud du Trellum Consurgo
+3040003	Salle de contrôle en désordre
+3040004	Salle des machines encombrée
+3040005	Pont du Brûlage Croiseur Endeavour
+3060001	Hall of the Argon Queen
+3060002	Hall of the Argon Queen
 3101001	Réserve de miel
 3101002	Chambre de la reine
 3101003	Salle d'injection
 3102001	Résidence des commandants
 3102002	Entrée de la Résidence des commandants
 3103001	Arène du courroux
+3108000	Lost Abyss - Entrance
+3108001	Lost Abyss - The Confines
+3108002	Lost Abyss - Execution Ground
+3108003	Lost Abyss - Chamber of Trials
+3110001	Forbidden Arena
 3201000	Entrée du Nid de Parquina (facile)
 3201001	Réserve de miel
 3201002	Chambre de la reine
@@ -1898,6 +1924,10 @@
 9095007	Moyeu de l'Epreuve
 9095008	Brasier est
 9096001	Galerie de Sirjuka
+9121100	Hôtel de Ville de Velika
+9121101	Stérile
+9121200	Hall de la Périphérie de Velika Étage Principal
+9121300	Hall de la Périphérie de Velika Deuxième Étage
 9124002	Velika - Pas de Velik
 9126001	Couveuse de Petre
 9126002	Camp d'entraînement de gardiens
