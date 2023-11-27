@@ -2,7 +2,7 @@ ShinraMeter
 ==============
 ShinraMeter is a DPS Meter for Menma's TERA based off https://github.com/gothos-folly/TeraDamageMeter. 
 
-Download: https://emilia.menmastera.com/shinrameter/ShinraMeterV2.93-MT.zip
+Download: https://downloads.mtdream.net/shinrameter/ShinraMeterV2.95-MT.zip
 
 ShinraMeter is originally developed by Gl0 and Yukikoo/Neowutran and this version is currently maintained by the Menma's TERA team.
 
@@ -40,4 +40,4 @@ If the meter still can't find your game connection, disable/uninstall any "netwo
 Do not put the config files in read-only mode, as this will prevent ShinraMeter from loading properly and make it crash on exit. It needs access to modify these files in order to save your settings.
 
 ## Support
-Join our [discord server](https://menmastera.com/shop) for additional support.
+Join our [discord server](https://discord.gg/mtdream) for additional support.
