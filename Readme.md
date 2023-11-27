@@ -8,7 +8,7 @@ ShinraMeter is originally developed by Gl0 and Yukikoo/Neowutran and this versio
 
 ## Prerequisites
 
-* [.NET Desktop Runtime 6.0 x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* [.NET Core Desktop Runtime 3.1 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer)
 * Up to date Windows 10 recommended.
 
 ## How to Install
